@@ -5,7 +5,7 @@ drive_folder_name = "U2GD_bot"
 MEGA_EMAIL = "email"
 MEGA_PASSWORD = "password"
 
-START = "Hi {}  \nI am Upload 2 Drive Bot.\nPlease Authorise To use me.\nBy using /auth \n\nFor more info /help\n\nPlease Report Bugs @aryanvikash"
+START = "Hi {}  \nI am Upload 2 Drive Bot.\nPlease Authorise To use me.\nBy using /auth \n\nFor more info /help\n\nPlease Report Bugs @SI_NN_ER_LS"
 
 HELP = """<b>AUTHORISE BOT</b>
 Use  /auth Command Generate
@@ -39,10 +39,10 @@ REVOKE_TOK = " Your Token is Revoked Successfully!! \n\nUse /auth To Re-Authoris
 # DOWN_PATH = "Downloads\\" #windows path
 DOWN_PATH = "Downloads/"  # Linux path
 DOWNLOAD_URL = "Your File Uploaded Successfully.\n\n <b>Filename</b> : {} \n\n <b> Size</b> : {} MB \n\n <b>Download</b> {}"
-AUTH_ERROR = "AUTH Error!! Please Send Me a valid Token or Re-Authorise Me\n\n/auth\n\n report At @aryanvikash"
+AUTH_ERROR = "AUTH Error!! Please Send Me a valid Token or Re-Authorise Me\n\n/auth\n\n report At @SI_NN_ER_LS"
 OPENLOAD = True
 DROPBOX = True
 MEGA = True
 
 
-UPDATE = """Try @BhadooCloud"""
+UPDATE = """FUCK YOU"""
